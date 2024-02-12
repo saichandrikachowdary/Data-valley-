@@ -1,0 +1,14 @@
+p{
+    font-style: italic;
+    font-weight: bold;
+    border:dotted ;
+    border-width:3px ;
+    border-radius:5px ;
+    border-color:black;
+}
+body{
+    background-color:aqua;
+    background-image: url('https://tse1.mm.bing.net/th?id=OIP.UJQyNZMBkjPfWXfDaRA6GQAAAA&pid=Api&P=0&h=180');
+    background-size: cover;
+    height: 1oovh;
+}
